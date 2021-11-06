@@ -7,10 +7,8 @@
 ### 2bored2wait (UNOFFICIAL)
 
 A proxy to wait out 2b2t.org's way too long queue.
-This version of the code is not official, it is for private use. All that this private fork does is fix some bugs and to make sure there is not a backdoor.
+This version of the code is not official, it is for private use. All that this private fork does is fix some bugs and make sure there is no backdoor.
 Here is the original link to the project by themoonisacheese: https://github.com/themoonisacheese/2bored2wait
-
-[Report Bug](https://github.com/RegenixMC/2bored2wait/issues) | [Request Feature](https://github.com/RegenixMC/2bored2wait/issues)
 
 </div>
 
