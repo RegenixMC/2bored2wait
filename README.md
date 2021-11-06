@@ -4,7 +4,7 @@
 
 <a href="#readme.md"><img align="center" src="images/logo.png" alt="Logo" width="80" height="80"><a>
 
-### 2bored2wait
+### 2bored2wait (UNOFFICIAL)
 
 A proxy to wait out 2b2t.org's way too long queue.
 This version of the code is not official, it is for private use. All that this private fork does is fix some bugs and to make sure there is not a backdoor.
