@@ -1,6 +1,3 @@
-<!-- Badges -->
-[![discord]][discord-url]
-
 <!-- PROJECT LOGO -->
 </br>
 <div align="center">
