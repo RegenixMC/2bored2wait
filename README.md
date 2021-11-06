@@ -7,8 +7,8 @@
 ### 2bored2wait
 
 A proxy to wait out 2b2t.org's way too long queue.
-This code is a fork from the original 2bored2wait by themoonisacheese
-Here is the original link to the project: https://github.com/themoonisacheese/2bored2wait
+This version of the code is not official, it is for private use. All that this private fork does is fix some bugs and to make sure there is not a backdoor.
+Here is the original link to the project by themoonisacheese: https://github.com/themoonisacheese/2bored2wait
 
 [Report Bug](https://github.com/RegenixMC/2bored2wait/issues) | [Request Feature](https://github.com/RegenixMC/2bored2wait/issues)
 
@@ -34,8 +34,8 @@ Here is the original link to the project: https://github.com/themoonisacheese/2b
 ## About The Project
 
 A proxy to wait out 2b2t.org's way too long queue.  
-Please Note that because of security reasons this tool doesn't auto-update! Also 2b2w does not show ETA from 2b2t.  
-The ETA is calculated based on position in the queue. This results in better ETA most of the time.
+Please Note that because of security reasons this tool doesn't auto-update! This is to prevent backdoors from newer code published from the official build of 2bored2wait.
+2b2w does not show ETA from 2b2t. The ETA is calculated based on position in the queue. This results in better ETA most of the time.
 
 ### Built With
 
