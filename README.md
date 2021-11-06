@@ -1,6 +1,4 @@
 <!-- Badges -->
-[![contributors]][contributors-url]
-[![issues]][issues-url]
 [![discord]][discord-url]
 
 <!-- PROJECT LOGO -->
