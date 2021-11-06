@@ -40,6 +40,7 @@ Please Note that because of security reasons this tool doesn't auto-update! This
 - node.js
 - npm
 - HTML
+- css
 
 <!-- GETTING STARTED -->
 
