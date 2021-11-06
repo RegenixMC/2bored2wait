@@ -87,7 +87,7 @@ If you want to change the configuration or you don't want your credentials in th
 
 # Configuration
 
-- You can change all credentials and whether you want update messages by simply editing the values in local.js or deleting that file.
+- You can change all credentials and whether you want update messages by simply editing the values in config/local.js or deleting that file.
 
 # How to use
 
@@ -105,7 +105,7 @@ If you want to change the configuration or you don't want your credentials in th
 All commands can be used through discord or simply typed in the console window.
 
 - `start` will start the queue. It takes between 15-30 seconds for the bot to update with the queue position.
-- `start 14:00` will start at 2pm.
+- `start 14:00` will start at 2pm. (Must use military time!)
 - `play 8:00` will try to calculate the right time to join so you can play at 8:00
 - `update` will send an update to the current channel with your position and ETA.
 - `stop` will stop the queue.
@@ -119,14 +119,8 @@ See the [open issues](https://github.com/RegenixMC/2bored2wait/issues) for a lis
 - Starting the queue will revoke your Minecraft token. this means that you will not be able to join normal Minecraft servers until you restart the game
 - If you connect after the queue is finished or reconnect the proxy will send cached data. Otherwise you would fly in an empty world. However not all data will be resend. You can move out of render distance (I find going through a nether portal works best) and return to fix this issue. Sometimes the client renders a cached chunk with a blank texture.
 
-
-# Testing
-
-- Run `npm test` to run test.js
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
+   
+   
    
 [contributors]: https://img.shields.io/github/contributors/RegenixMC/2bored2wait.svg?style=for-the-badge&color=3e961e
 [contributors-url]: https://github.com/RegenixMC/2bored2wait/graphs/contributors
