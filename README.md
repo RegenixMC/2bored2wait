@@ -155,15 +155,12 @@ Distributed under the GPL-3.0 License. See [this](LICENSE) for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
+   
 [contributors]: https://img.shields.io/github/contributors/themoonisacheese/2bored2wait.svg?style=for-the-badge&color=3e961e
-[contributors-url]: https://github.com/themoonisacheese/2bored2wait/graphs/contributors
-[stars]: https://img.shields.io/github/stars/themoonisacheese/2bored2wait.svg?style=for-the-badge&color=yellow
-[stars-url]: https://github.com/themoonisacheese/2bored2wait/stargazers
+[contributors-url]: https://github.com/RegenixMC/2bored2wait/graphs/contributors
+   
 [issues]: https://img.shields.io/github/issues-raw/themoonisacheese/2bored2wait.svg?label=issues&style=for-the-badge&color=orange
-[issues-url]: https://github.com/themoonisacheese/2bored2wait/issues
-[forks]: https://img.shields.io/github/forks/themoonisacheese/2bored2wait.svg?style=for-the-badge
-[forks-url]: https://github.com/themoonisacheese/2bored2wait/network/members
-[donate]: https://img.shields.io/badge/Donate-PayPal-green.svg?style=for-the-badge
-[donate-url]: https://paypal.me/themoonisacheese
+[issues-url]: https://github.com/RegenixMC/2bored2wait/issues
+   
 [discord]: https://img.shields.io/badge/dynamic/json?label=Discord&color=7289da&query=%24.presence_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Fguilds%2F879482948099919903%2Fwidget.json&style=for-the-badge
-[discord-url]: https://discord.gg/9ZrXZp7nVj
+[discord-url]: https://discord.gg/SMDVkP3eUk
