@@ -1,9 +1,6 @@
 <!-- Badges -->
 [![contributors]][contributors-url]
-[![stars]][stars-url]
 [![issues]][issues-url]
-[![forks]][forks-url]
-[![donate]][donate-url]
 [![discord]][discord-url]
 
 <!-- PROJECT LOGO -->
@@ -16,7 +13,7 @@
 
 A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver a REST-like API for external control
 
-[Report Bug](https://github.com/themoonisacheese/2bored2wait/issues) | [Request Feature](https://github.com/themoonisacheese/2bored2wait/issues)
+[Report Bug](https://github.com/RegenixMC/2bored2wait/issues) | [Request Feature](https://github.com/RegenixMC/2bored2wait/issues)
 
 </div>
 
@@ -78,7 +75,7 @@ Please optain all required items
 2. Open a terminal then clone this repo then cd into folder:
 
 ```sh
- git clone https://github.com/themoonisacheese/2bored2wait
+ git clone https://github.com/RegenixMC/2bored2wait
  cd 2bored2wait
 ```
 
