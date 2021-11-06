@@ -11,7 +11,9 @@
 
 ### 2bored2wait
 
-A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver a REST-like API for external control
+A proxy to wait out 2b2t.org's way too long queue.
+This code is a fork from the original 2bored2wait by themoonisacheese
+Here is the original link to the project: https://github.com/themoonisacheese/2bored2wait
 
 [Report Bug](https://github.com/RegenixMC/2bored2wait/issues) | [Request Feature](https://github.com/RegenixMC/2bored2wait/issues)
 
@@ -29,9 +31,6 @@ A proxy to wait out 2b2t.org's way too long queue. Includes a small webserver a 
 3. [How to use](#how-to-use)
 4. [Configuration](#configuration)
 5. [Roadmap and known issues](#roadmap-and-known-issues)
-6. [Contributing](#contributing)
-7. [License](#license)
-8. [Testing](#testing)
 
 </p></details>
 
@@ -66,7 +65,7 @@ Please optain all required items
 ### x86 and x64 (most home computers):
 
 1. Read the code to ensure I'm not stealing your credentials. I'm not, but you shouldn't take my word for it. If you don't know how to read it, downloading stuff off the internet and giving it your password is probably a bad idea anyway.
-2. Download the executable [here](https://github.com/themoonisacheese/2bored2wait/releases/latest)
+2. Download the executable [here](https://github.com/RegenixMC/2bored2wait/releases/latest)
 3. (Optional) Take a look at `config/default.json`, edit your values and place the config under `${USER}/.2bored2wait/config/local.json`
 
 ### Other Platforms (including ARM / Raspberry Pi):
@@ -127,26 +126,6 @@ See the [open issues](https://github.com/themoonisacheese/2bored2wait/issues) fo
 - Starting the queue will revoke your Minecraft token. this means that you will not be able to join normal Minecraft servers until you restart the game
 - If you connect after the queue is finished or reconnect the proxy will send cached data. Otherwise you would fly in an empty world. However not all data will be resend. You can move out of render distance (I find going through a nether portal works best) and return to fix this issue. Sometimes the client renders a cached chunk with a blank texture.
 
-<!-- CONTRIBUTING -->
-
-## Contributing
-   
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b themoonisacheese/2bored2wait`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin themoonisacheese/2bored2wait`)
-5. Open a Pull Request
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the GPL-3.0 License. See [this](LICENSE) for more information.
-
-<!-- ACKNOWLEDGEMENTS -->
 
 # Testing
 
@@ -156,10 +135,10 @@ Distributed under the GPL-3.0 License. See [this](LICENSE) for more information.
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
    
-[contributors]: https://img.shields.io/github/contributors/themoonisacheese/2bored2wait.svg?style=for-the-badge&color=3e961e
+[contributors]: https://img.shields.io/github/contributors/RegenixMC/2bored2wait.svg?style=for-the-badge&color=3e961e
 [contributors-url]: https://github.com/RegenixMC/2bored2wait/graphs/contributors
    
-[issues]: https://img.shields.io/github/issues-raw/themoonisacheese/2bored2wait.svg?label=issues&style=for-the-badge&color=orange
+[issues]: https://img.shields.io/github/issues-raw/RegenixMC/2bored2wait.svg?label=issues&style=for-the-badge&color=orange
 [issues-url]: https://github.com/RegenixMC/2bored2wait/issues
    
 [discord]: https://img.shields.io/badge/dynamic/json?label=Discord&color=7289da&query=%24.presence_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Fguilds%2F879482948099919903%2Fwidget.json&style=for-the-badge
