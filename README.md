@@ -59,7 +59,7 @@ Please optain all required items
 ### x86 and x64 (most home computers):
 
 1. Read the code to ensure I'm not stealing your credentials. I'm not, but you shouldn't take my word for it. If you don't know how to read it, downloading stuff off the internet and giving it your password is probably a bad idea anyway.
-2. Download the executable [here](https://github.com/RegenixMC/2bored2wait/releases/latest)
+2. Download the program [here](https://github.com/RegenixMC/2bored2wait/releases/latest)
 3. (Optional) Take a look at `config/default.json`, edit your values and place the config under `${USER}/.2bored2wait/config/local.json`
 
 ### Other Platforms (including ARM / Raspberry Pi):
@@ -119,15 +119,3 @@ See the [open issues](https://github.com/RegenixMC/2bored2wait/issues) for a lis
 
 - Starting the queue will revoke your Minecraft token. this means that you will not be able to join normal Minecraft servers until you restart the game
 - If you connect after the queue is finished or reconnect the proxy will send cached data. Otherwise you would fly in an empty world. However not all data will be resend. You can move out of render distance (I find going through a nether portal works best) and return to fix this issue. Sometimes the client renders a cached chunk with a blank texture.
-
-   
-   
-   
-[contributors]: https://img.shields.io/github/contributors/RegenixMC/2bored2wait.svg?style=for-the-badge&color=3e961e
-[contributors-url]: https://github.com/RegenixMC/2bored2wait/graphs/contributors
-   
-[issues]: https://img.shields.io/github/issues-raw/RegenixMC/2bored2wait.svg?label=issues&style=for-the-badge&color=orange
-[issues-url]: https://github.com/RegenixMC/2bored2wait/issues
-   
-[discord]: https://img.shields.io/badge/dynamic/json?label=Discord&color=7289da&query=%24.presence_count&url=https%3A%2F%2Fdiscordapp.com%2Fapi%2Fguilds%2F879482948099919903%2Fwidget.json&style=for-the-badge
-[discord-url]: https://discord.gg/SMDVkP3eUk
