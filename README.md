@@ -92,7 +92,7 @@ If you want to change the configuration or you don't want your credentials in th
 
 # Configuration
 
-- You can change all credentials and whether you want update messages by simply editing the values in config/local.js or deleting that file.
+- You can change all credentials in config/local.js or deleting that file.
 
 # How to use
 
