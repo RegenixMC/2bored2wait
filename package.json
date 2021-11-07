@@ -1,10 +1,10 @@
 {
   "name": "2bored2wait",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "A proxy to wait out 2b2t.org's way too long queue.",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js",
+    "start": "node main.js"
   },
   "repository": {
     "type": "git",
@@ -31,6 +31,6 @@
     "rss-parser": "3.12.0"
   },
   "devDependencies": {
-    "nexe": "4.0.0-beta.19"
+    "nexe": "4.0.0-beta.18"
   }
 }
