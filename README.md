@@ -117,7 +117,7 @@ All commands can be used through discord or simply typed in the console window.
 
 <!-- ROADMAP -->
 
-# Roadmap and known issues
+# Known issues
 
 See the [open issues](https://github.com/RegenixMC/2bored2wait/issues) for a list of proposed features (and known issues).
 
