@@ -61,8 +61,8 @@ const askForSecrets = async () => {
 			localConf.accountType = accountType;
 			localConf.mcPassword = mc_password;
 			localConf.username = mc_username;
-			updatemessage = await promisedQuestion("Update Messages? Y or N [Y]: ");
-			localConf.updatemessage = updatemessage;
+			updatemessage = 'n'
+			//localConf.updatemessage = updatemessage;
 			}
 	if((!config.has("discordBot") || config.get("discordBot")) && !config.has("BotToken")) {
 		canSave = true;
